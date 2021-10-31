@@ -7,7 +7,10 @@ Course description on Coursera:
 
 ## List of files and folders:
 
-1. **finding_numbers**: a script (1_finding_numbers.py) and data to run the script on (1_finding_numbers.txt, [source](http://py4e-data.dr-chuck.net/)). The script performs following tasks:
+1. **Finding numbers**: a script (1_finding_numbers.py) and data to run the script on (1_finding_numbers.txt, [source](http://py4e-data.dr-chuck.net/)). The script performs following tasks:
  - reads through and parses a file with text and numbers, 
  - extracts all the numbers in the file, 
  - computes their sum. 
+2. **Exploring HTTP**: a script (2_exploring_HTTP.py) performing the following tasks:
+ -  retrieves a URL,
+ -  prints out the headers and data.
