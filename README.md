@@ -18,3 +18,8 @@ Course description on Coursera:
    - reading the HTML from a URL, 
    - parsing the data using BeautifulSoup, 
    - extracting numbers and computing the sum of the numbers in the file. 
+4. **Following links in HTML**: a script (4_following_links_in_HTML.py) performing the following tasks:
+   - uses urllib to read the HTML from a URL,
+   - extracts the href= values from the anchor tags, 
+   - scans for a tag that is in a particular position from the top and follows that link, 
+   - repeats the process a number of times, and reports the last name it finds.
