@@ -7,7 +7,7 @@ Course description on Coursera:
 
 ## List of files and folders:
 
-1. **finding_numbers**: a script (1_finding_numbers.py) and data to run the script on (1_finding_numbers.txt, [source](http://py4e-data.dr-chuck.net/)). The script performs following tasks based on the provided command line arguments:
+1. **finding_numbers**: a script (1_finding_numbers.py) and data to run the script on (1_finding_numbers.txt, [source](http://py4e-data.dr-chuck.net/)). The script performs following tasks:
  - reads through and parses a file with text and numbers, 
  - extracts all the numbers in the file, 
  - computes their sum. 
