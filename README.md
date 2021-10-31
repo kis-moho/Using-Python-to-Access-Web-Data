@@ -12,5 +12,5 @@ Course description on Coursera:
  - extracts all the numbers in the file, 
  - computes their sum. 
 2. **Exploring HTTP**: a script (2_exploring_HTTP.py) performing the following tasks:
- -  retrieves a URL,
- -  prints out the headers and data.
+ -  retrieving a URL,
+ -  printing out the headers and data.
