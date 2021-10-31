@@ -14,3 +14,7 @@ Course description on Coursera:
 2. **Exploring HTTP**: a script (2_exploring_HTTP.py) performing the following tasks:
  -  retrieving a URL,
  -  printing out the headers and data.
+3. **Scraping HTML data**: a script (3_scraping_HTML_data.py) performing the following tasks:
+ - reading the HTML from a URL, 
+ - parsing the data using BeautifulSoup, 
+ - extracting numbers and computing the sum of the numbers in the file. 
