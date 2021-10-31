@@ -33,3 +33,8 @@ Course description on Coursera:
     - read the JSON data from that URL using urllib,
     - parse and extract the comment counts from the JSON data, 
     - compute the sum of the numbers in the file.
+7. **Using the GeoJSON API**: a script (7_using_the_GeoJSON_API.py) performing the following tasks:
+    - prompt for a location, 
+    - contact a web service and retrieve JSON for the web service, 
+    - parse that data, 
+    - retrieve the first place_id (a textual identifier that uniquely identifies a place as within Google Maps) from the JSON.  
