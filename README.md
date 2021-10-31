@@ -28,3 +28,8 @@ Course description on Coursera:
     - read the XML data from that URL using urllib,
     - parse and extract the comment counts from the XML data, 
     - compute the sum of the numbers in the file. 
+6. **Extracting Data from JSON**: a script (6_extracting_data_from_JSON.py) performing the following tasks:
+    - prompt for a URL, 
+    - read the JSON data from that URL using urllib,
+    - parse and extract the comment counts from the JSON data, 
+    - compute the sum of the numbers in the file.
