@@ -12,14 +12,19 @@ Course description on Coursera:
    - extracts all the numbers in the file, 
    - computes their sum. 
 2. **Exploring HTTP**: a script (2_exploring_HTTP.py) performing the following tasks:
-   -  retrieving a URL,
-   -  printing out the headers and data.
+   -  retrieve a URL,
+   -  print out the headers and data.
 3. **Scraping HTML data**: a script (3_scraping_HTML_data.py) performing the following tasks:
-   - reading the HTML from a URL, 
-   - parsing the data using BeautifulSoup, 
-   - extracting numbers and computing the sum of the numbers in the file. 
+   - read the HTML from a URL, 
+   - parse the data using BeautifulSoup, 
+   - extract numbers and compute the sum of the numbers in the file. 
 4. **Following links in HTML**: a script (4_following_links_in_HTML.py) performing the following tasks:
-   - uses urllib to read the HTML from a URL,
-   - extracts the href= values from the anchor tags, 
-   - scans for a tag that is in a particular position from the top and follows that link, 
-   - repeats the process a number of times, and reports the last name it finds.
+   - use urllib to read the HTML from a URL,
+   - extract the href= values from the anchor tags, 
+   - scan for a tag that is in a particular position from the top and follow that link, 
+   - repeat the process a number of times, and report the last name it finds.
+5. **Extracting Data from XML**: a script (5_extracting_data_from_XML.py) performing the following tasks:
+    - prompt for a URL, 
+    - read the XML data from that URL using urllib,
+    - parse and extract the comment counts from the XML data, 
+    - compute the sum of the numbers in the file. 
