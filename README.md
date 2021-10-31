@@ -1,5 +1,5 @@
 # Using Python to Access Web Data
-The repo contains code for excersices completed by me during University of Michigan ["Using Python to Access Web Data"](https://www.coursera.org/learn/python-network-data?specialization=python) class.
+The repo contains code for excercises completed by me during University of Michigan ["Using Python to Access Web Data"](https://www.coursera.org/learn/python-network-data?specialization=python) class.
 
 Course description on Coursera:
 
